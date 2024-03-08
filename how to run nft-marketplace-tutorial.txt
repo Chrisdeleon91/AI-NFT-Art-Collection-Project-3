@@ -1,0 +1,6 @@
+use git bash or whatever terminal you use, conda activate dev
+
+from the NFT-Marketplace-Tutorial-master\scripts directory
+type in "npm start" to run
+
+I have had to use yarn (yarn hardhat run --network sepolia scripts/deploy.js) to try to switch networks

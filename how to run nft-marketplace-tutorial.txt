@@ -1,3 +1,5 @@
+download link:  https://file.io/KxKDxwvdEU9t
+
 use git bash or whatever terminal you use, conda activate dev
 
 from the NFT-Marketplace-Tutorial-master\scripts directory

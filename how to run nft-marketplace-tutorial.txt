@@ -4,3 +4,5 @@ from the NFT-Marketplace-Tutorial-master\scripts directory
 type in "npm start" to run
 
 I have had to use yarn (yarn hardhat run --network sepolia scripts/deploy.js) to try to switch networks
+
+you can edit the hardhat.config.hs file to try to switch/configuring networks

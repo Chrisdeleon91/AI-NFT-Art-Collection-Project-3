@@ -68,7 +68,7 @@ We will use the following in our project:
      
 [![Video 3](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/8bd87b2e-55b6-4d48-bebd-3e5ef532002e)](https://www.youtube.com/watch?v=Xn2e7hKJZdM "Video 3")
 
-5. Optional: Using OpenSea Testnet, follow video, "4. OpenSea testnet demo.mkv":
+5. Optional: Using OpenSea Testnet, follow video, "4. OpenSea testnet demo.mp4":
 
 [![Video 4](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/a0463ee2-f3bc-4a74-88a5-d10e34c24d27)](https://www.youtube.com/watch?v=3nxnQBoH5zE "Video 4")
 

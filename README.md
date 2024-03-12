@@ -44,9 +44,8 @@ We will use the following in our project:
 
 ### Instructions
 
-1. Run DALL_E_3_API.py in a terminal after adding your API key (needs an active subscription) and editing prompts
-   
-3. Deploy Smart Contract on Remix IDE, follow video, "1. deploying smart contract on remix ide.mp4":
+1. Run DALL_E_3_API.py in a terminal after adding your API key/file (needs an active subscription) and editing prompts
+   - Deploy Smart Contract on Remix IDE, follow video, "1. deploying smart contract on remix ide.mp4":
    - Connect MetaMask account via "Injected Provider - MetaMask"
    
 [![Video 1](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/1eb92477-8945-441b-9404-f5d17fa67dfb)](https://www.youtube.com/watch?v=4eIgUi2RgRo "Video 1")

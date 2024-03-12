@@ -1,25 +1,8 @@
 # AI-NFT-Art-Collection-Project-3
 
 ## How to use
-Follow instructions below (update fully when done)
+Follow instructions at bottom of page
 ##
-
-
-https://docs.alchemy.com/docs/how-to-build-an-nft-marketplace-from-scratch#step-3-setting-up-environment-variables-and-hardhat-config
-https://www.youtube.com/watch?v=y6JfVdcJh1k
-
-hardhat config
-https://docs.openzeppelin.com/ for smart contract
--find openzeppelin functions used/ and look in tutorial for further explainatations
--if time try opensea testnet
-
-* to run alachemy
-* in git bash after conda activate dev
-* npx hardhat run scripts/deploy.js --network ganache
-* npx hardhat node (gives test accounts)
-* npm start in cmd
----------------------------------------------------------------------------
-
 ### Authors: Christopher De Leon, Mike West, Daniyar Mussin
 
 ### Introduction
@@ -39,7 +22,7 @@ https://docs.openzeppelin.com/ for smart contract
 * Can we implement Chat GPT's generative image AI into creating an art collection for us?
 
 ### Libraries and tools used
-We will use the following ************ in our project:
+We will use the following in our project:
 * Remix IDE (to launch smart contract)
 * React (Javascript)
 * Hardhat (to connect to network)
@@ -56,5 +39,34 @@ We will use the following ************ in our project:
 * Visualization
 * Integration
 
+### Instructions
+
+1. Run DALL_E_3_API.py in a terminal after adding your API key (needs an active subscription) and editing prompts
+2. Deploy Smart Contract on Remix IDE, follow video:
+
+![](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/b2300173-20f0-4cd2-998f-891ca57f5609)
+)](https://www.youtube.com/watch?v=4eIgUi2RgRo "Everything Is AWESOME")
+
+1. deploying smart contract on remix ide.mp4
+
+https://www.youtube.com/watch?v=0cLeM9Q-NNM
+2. launching react etheruem dApp.mp4
+
+https://www.youtube.com/watch?v=Xn2e7hKJZdM
+3.NFT Markplace list, sell and buy demo.mp4
+
+4. OpenSea testnet demo.mkv
+   https://www.youtube.com/watch?v=3nxnQBoH5zE
+
+hardhat config
+https://docs.openzeppelin.com/ for smart contract
+-find openzeppelin functions used/ and look in tutorial for further explainatations
+-if time try opensea testnet
+
+* to run alachemy
+* in git bash after conda activate dev
+* npx hardhat run scripts/deploy.js --network ganache
+* npx hardhat node (gives test accounts)
+* npm start in cmd
 
 ![Picture](https://www.columbia.edu/content/themes/custom/columbia/assets/img/cu-header.svg)

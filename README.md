@@ -39,6 +39,10 @@ We will use the following in our project:
 * Visualization
 * Integration
 
+### Resources:
+https://docs.openzeppelin.com/
+
+
 ### Instructions
 
 1. Run DALL_E_3_API.py in a terminal after adding your API key (needs an active subscription) and editing prompts
@@ -57,18 +61,11 @@ We will use the following in our project:
    - type "npm start"
 [![Video 2](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/4eb29299-9d48-4d96-b0c3-ca3b8f6101a6)](https://www.youtube.com/watch?v=0cLeM9Q-NNM "Video 2")
 
-
 3. Interacting with NFT Marketplace, follow video, "3.NFT Markplace list, sell and buy demo.mp4":
    - Go into your browser of choose and open the local host address (http://localhost:3000/)
 [![Video 3](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/7814ed4b-c5a4-4845-ac5c-f1ba02c8726f)](https://www.youtube.com/watch?v=Xn2e7hKJZdM "Video 3")
 
 4. Optional: Using OpenSea Testnet, follow video, "4. OpenSea testnet demo.mkv":
-[![Video 4](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/53f9c0be-97ae-4db3-a95c-dca4c5057fb7)]([https://www.youtube.com/watch?v=Xn2e7hKJZdM](https://www.youtube.com/watch?v=3nxnQBoH5zE) "Video 4")
-
-hardhat config
-https://docs.openzeppelin.com/ for smart contract
--find openzeppelin functions used/ and look in tutorial for further explainatations
-
-
+[![Video 4](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/2980eb08-d736-4f59-bdb0-911c5510688e)](https://www.youtube.com/watch?v=3nxnQBoH5zE "Video 4")
 
 ![Picture](https://www.columbia.edu/content/themes/custom/columbia/assets/img/cu-header.svg)

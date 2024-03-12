@@ -23,15 +23,14 @@ Follow instructions at bottom of page
 
 ### Libraries and tools used
 We will use the following in our project:
-* Remix IDE (to launch smart contract)
-* React (Javascript)
-* Hardhat (to connect to network)
-* Alchemy
-* OpenAI library (ChatGPT)
-* Flask
-* Piñata (to upload your data to IPFS)
-* Metamask
-* Ganache
+- Remix IDE (to launch smart contract)
+- React (Javascript from project template)
+- Hardhat (configuration to connect to Ganache local blockchain network)
+- Alchemy (project template)
+- OpenAI library (OpenAI DALL-E 3 API)
+- Piñata (to upload data to IPFS)
+- MetaMask (software cryptocurrency wallet used to interact with the Ethereum blockchain)
+- Ganache (local blockchain network)
 
 ### Overview of Tasks
 * Generating Images

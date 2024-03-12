@@ -41,6 +41,8 @@ We will use the following in our project:
 
 ### Resources:
 https://docs.openzeppelin.com/
+https://docs.alchemy.com/docs/nft-project-code-templates
+- Code Snippets
 
 
 ### Instructions

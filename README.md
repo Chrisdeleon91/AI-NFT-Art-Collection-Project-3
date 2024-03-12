@@ -45,12 +45,14 @@ We will use the following in our project:
 ### Instructions
 
 1. Run DALL_E_3_API.py in a terminal after adding your API key/file (needs an active subscription) and editing prompts
-   - Deploy Smart Contract on Remix IDE, follow video, "1. deploying smart contract on remix ide.mp4":
+   - Alternatively use "AI NFT Collection\Final AI NFT Collection\Final Images\Compressed" Images to thecomplete rest of project
+     
+2. Deploy Smart Contract on Remix IDE, follow video, "1. deploying smart contract on remix ide.mp4":
    - Connect MetaMask account via "Injected Provider - MetaMask"
    
 [![Video 1](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/1eb92477-8945-441b-9404-f5d17fa67dfb)](https://www.youtube.com/watch?v=4eIgUi2RgRo "Video 1")
 
-2. Launch React Ethereum dapp, follow video, "2. launching react etheruem dApp.mp4":
+3. Launch React Ethereum dapp, follow video, "2. launching react etheruem dApp.mp4":
    - Create a Ganache workspace
    - commands:
    - Git Bash into "NFT Marketplace" folder, or cd into this directory in your terminal of choose
@@ -61,12 +63,12 @@ We will use the following in our project:
 
 [![Video 2](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/b7183d8f-09a9-4d14-9aae-93e88323e232)](https://www.youtube.com/watch?v=0cLeM9Q-NNM "Video 2")
 
-3. Interacting with NFT Marketplace, follow video, "3.NFT Markplace list, sell and buy demo.mp4":
+4. Interacting with NFT Marketplace, follow video, "3.NFT Markplace list, sell and buy demo.mp4":
    - Go into your browser of choose and open the local host address (http://localhost:3000/)
      
 [![Video 3](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/8bd87b2e-55b6-4d48-bebd-3e5ef532002e)](https://www.youtube.com/watch?v=Xn2e7hKJZdM "Video 3")
 
-4. Optional: Using OpenSea Testnet, follow video, "4. OpenSea testnet demo.mkv":
+5. Optional: Using OpenSea Testnet, follow video, "4. OpenSea testnet demo.mkv":
 
 [![Video 4](https://github.com/Chrisdeleon91/AI-NFT-Art-Collection-Project-3/assets/22796940/a0463ee2-f3bc-4a74-88a5-d10e34c24d27)](https://www.youtube.com/watch?v=3nxnQBoH5zE "Video 4")
 
